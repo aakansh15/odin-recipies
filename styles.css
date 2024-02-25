@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #aaafb5;
+}
+
+.heading {
+    text-align: center;
+    margin-top: 20px;
+}
+
+li {
+    list-style-type: none;
+    margin: 20px 0;
+}
+
+li > a {
+    color: #1e1e1e;
+}
+
+li > a:hover,
+li > a:visited:hover{
+    color: #ff0000;
+}
+
+li > a:visited {
+    color: #3f5a64;
+}
